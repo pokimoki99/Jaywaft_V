@@ -1,0 +1,2 @@
+/Engine/Transient.World_5:WB_InventorySlot_C_2
+/Game/InventorySystem/UI/WB_InventorySlot.WB_InventorySlot_C

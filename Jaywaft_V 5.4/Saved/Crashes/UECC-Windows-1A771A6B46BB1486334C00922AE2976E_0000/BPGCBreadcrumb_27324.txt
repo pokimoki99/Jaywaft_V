@@ -1,0 +1,2 @@
+/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_item_base_C_UAID_FC349717FFEDA02602_1920618785.BPC_itemData
+/Game/InventorySystem/BPC_itemData.BPC_itemData_C
