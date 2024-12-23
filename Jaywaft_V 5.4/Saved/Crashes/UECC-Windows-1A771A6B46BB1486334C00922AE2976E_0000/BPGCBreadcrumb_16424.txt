@@ -1,2 +1,0 @@
-/Game/InventorySystem/BPC_itemData.Default__BPC_itemData_C
-/Game/InventorySystem/BPC_itemData.BPC_itemData_C

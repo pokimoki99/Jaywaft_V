@@ -1,2 +1,0 @@
-/Game/InventorySystem/items/BP_item_base.BP_item_base_C:BPC_itemData_GEN_VARIABLE
-/Game/InventorySystem/BPC_itemData.BPC_itemData_C

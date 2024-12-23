@@ -1,2 +1,0 @@
-/Game/InventorySystem/UI/WB_InventorySlot.Default__WB_InventorySlot_C
-/Game/InventorySystem/UI/WB_InventorySlot.WB_InventorySlot_C
